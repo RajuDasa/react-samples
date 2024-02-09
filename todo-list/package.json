@@ -2,6 +2,10 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Raju Dasa",
+    "url": "https://github.com/RajuDasa/react-samples"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
