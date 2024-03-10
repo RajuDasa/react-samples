@@ -6,4 +6,9 @@
 
 Features: Add, Tick, Untick, Delete items.
 
-2. [TBD]
+2. Tic Toc Toe - with BOT
+
+![alt text](/screens/tic-toc-toe.png)
+
+Features: Play game with BOT (minimax algorithm)
+
